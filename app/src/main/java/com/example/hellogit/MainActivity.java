@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         String Nmw="hello kja";
         String Nmw2="hello Git again";
+        String Nmw3="hello Git again.........";
     }
 }
